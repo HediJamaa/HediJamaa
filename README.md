@@ -79,6 +79,6 @@
 <h2>🤝 Connect with me</h2>
 
 <p>
-📧 <a href="mailto:jamaahedi1@gmail.com">jamaahedi1@gmail.com</a><br>
+📧 <a href="mailto:jamaahedi3@gmail.com">jamaahedi3@gmail.com</a><br>
 🔗 <a href="https://www.linkedin.com/in/hedi-jamaa-b7b7a21db/">LinkedIn</a>
 </p>
