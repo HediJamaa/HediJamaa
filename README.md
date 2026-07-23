@@ -80,5 +80,5 @@
 
 <p>
 📧 <a href="mailto:jamaahedi3@gmail.com">jamaahedi3@gmail.com</a><br>
-🔗 <a href="https://www.linkedin.com/in/hedi-jamaa-b7b7a21db/">LinkedIn</a>
+🔗 <a href="https://www.linkedin.com/in/hedi-jamaa-7b72a124b/">LinkedIn</a>
 </p>
