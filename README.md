@@ -2,10 +2,10 @@
 
 <ul>
 <li>🎓 Business Computing Graduate</li>
-<li>🎓 Data Science Engineering Student</li>
-<li>📚 Research Master's Student in Intelligent Decision-Making Strategies at ISG Tunis</li>
-<li>📊 Passionate about Data Engineering, Data Science, and Business Intelligence</li>
-<li>🚀 Interested in building data-driven solutions and improving decision-making</li>
+<li>🚀 Data Science Engineering Student at ESPRIT School of Engineering </li>
+<li>📚 Research Master's Student in Intelligent Decision Making Strategies at ISG Tunis </li>
+<li>📊 Passionate about Data Engineering, Data Science and Business Intelligence </li>
+<li>💡 Interested in building data-driven solutions and improving decision-making </li>
 </ul>
 
 <h2>Languages and Tools:</h2>
